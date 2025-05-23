@@ -1,0 +1,30 @@
+site_name: Grasshopper
+site_url: https://roikonen.github.io/grasshopper/
+theme:
+  name: material
+  icon:
+    logo: material/mower-on
+  favicon: assets/favicon.ico
+  features:
+    - navigation.footer
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+      primary: green
+      accent: green
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+      primary: green
+      accent: green
+  
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: Copyright &copy; 2025 Simo Roikonen
