@@ -3,6 +3,17 @@
 * Kaipaatko nurmikollesi edullista ja vaivatonta leikkauspalvelua.
 * Haluatko auttaa reipasta ja omatoimista yläasteelaista tienaamaan moporahoja?
 
+``` mermaid
+graph LR
+  F[Yhteydenotto] --> G{Piha-arvio tehty?}
+  G --> |Kyllä| C;
+  G --> |Ei| B;
+  B[10min piha-arvio] --> C;
+  C[Aikataulutus] --> D;
+  D[Leikkaus] --> E;
+  E[Maksu] --> D;
+```
+
 !!! tip "Näin Pääset Alkuun"
 
     [:material-form-select: Tilaa vaivaton piha-arvio](https://forms.gle/Tnt9ebGAe1aDXwMVA){ .md-button }
@@ -47,3 +58,7 @@ Jos asiakkaalta ei löydy omaa ruohonleikkuria tai bensaa, veloitamme lisäksi k
 1. Palvelun tarjoaja tai suorittaja ei vastaa asiakkaan tarjoaman leikkuuvälineistön (kuten ruohonleikkuri) kunnosta, eikä ole korvausvelvollinen asiakkaan omaisuuteen syntyvistä vaurioista.
 1. Palvelut veloitetaan asiakkaalta työn jälkeen.
 1. Työ tehdään ennalta sovittuina arkipäivinä aikavälillä 9-17.
+
+## Palaute
+
+[Anna palautetta](https://forms.gle/erpWD5qhEBahiwnV7)
