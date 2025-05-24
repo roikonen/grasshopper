@@ -28,7 +28,7 @@ Pihasi hinnoittelu hoidetaan noin 10 minuutin mittaisen arviointikäynnin yhteyd
 
 _Ei ALV-velvollinen (alle 1000 € liikevaihto vuodessa)_
 
-Jos asiakkaalta ei löydy omaa ruohonleikkuria, veloitamme lisäksi kalustomaksun, joka tuplaa leikkuun hinnan.
+Jos asiakkaalta ei löydy omaa ruohonleikkuria tai bensaa, veloitamme lisäksi kalustomaksun, joka tuplaa leikkuun hinnan.
 
 ??? info "Esimerkki: Asiakkaalla on oma leikkuri ja bensat"
 
