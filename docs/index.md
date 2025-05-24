@@ -26,6 +26,8 @@ Pihasi hinnoittelu hoidetaan noin 10 minuutin mittaisen arviointikäynnin yhteyd
 | L | 20€ |
 | XL | Tilannekohtaisesti |
 
+_Ei ALV-velvollinen (alle 1000 € liikevaihto vuodessa)_
+
 Jos asiakkaalta ei löydy omaa ruohonleikkuria, veloitamme lisäksi kalustomaksun, joka tuplaa leikkuun hinnan.
 
 ??? info "Esimerkki: Asiakkaalla on oma leikkuri ja bensat"
@@ -44,6 +46,4 @@ Jos asiakkaalta ei löydy omaa ruohonleikkuria, veloitamme lisäksi kalustomaksu
 1. Palvelun suorittaa yläaste-ikäinen henkilö, joten työn jälki voi jättää toivomisen varaa. Jos jälki ei miellytä, edeltävän leikkuukerran rahat saa takaisin. Lisäksi työn jäljestä voi jättää palautetta ja näin seuraavalla kerralla työn laatu toivottavasti paranee.
 1. Palvelun tarjoaja tai suorittaja ei vastaa asiakkaan tarjoaman leikkuuvälineistön (kuten ruohonleikkuri) kunnosta, eikä ole korvausvelvollinen asiakkaan omaisuuteen syntyvistä vaurioista.
 1. Palvelut veloitetaan asiakkaalta työn jälkeen.
-1. Työ tehdään arkipäivinä aikavälillä 9-17.
-
-
+1. Työ tehdään ennalta sovittuina arkipäivinä aikavälillä 9-17.
