@@ -1,17 +1,49 @@
-# Vaivaton ja Edullinen Ruohonleikkuupalvelu
+# Vaivaton ja Edullinen Ruohonleikkuupalvelu Muuramessa
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+* Kaipaatko nurmikollesi edullista ja vaivatonta leikkauspalvelua.
+* Haluatko auttaa reipasta ja omatoimista yläasteelaista tienaamaan moporahoja?
 
-## Commands
+!!! tip "Näin Pääset Alkuun"
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    [:material-form-select: Tilaa vaivaton piha-arvio](https://forms.gle/Tnt9ebGAe1aDXwMVA){ .md-button }
 
-## Project layout
+    TAI
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    [:material-phone: 050 361 2198](tel:+358503612198){ .md-button }
+
+    TAI
+
+    [:octicons-mail-24: ruohonleikkuu@roikonen.fi](mailto:ruohonleikkuu@roikonen.fi?subject=Piha-arvio&body=Muuramen%20katuosoitteesi%20sekä%20puhelinnumerosi){ .md-button }
+
+## Hinnoittelu
+
+Pihasi hinnoittelu hoidetaan noin 10 minuutin mittaisen arviointikäynnin yhteydessä, jossa pihasi arvioidaan silmämääräisesti koon ja monimutkaisuuden mukaan T-paita-kokoihin.
+
+| Koko & monimutkaisuus | Hinta/leikkauskerta |
+| --------------------- | ------------------- |
+| S | 10€ |
+| M | 15€ |
+| L | 20€ |
+| XL | Tilannekohtaisesti |
+
+Jos asiakkaalta ei löydy omaa ruohonleikkuria, veloitamme lisäksi kalustomaksun, joka tuplaa leikkuun hinnan.
+
+??? info "Esimerkki: Asiakkaalla on oma leikkuri ja bensat"
+
+    Piha-arviossa pihasi arvioidaan kokoon M. Sinulta löytyy ruohonleikkuri ja siihen bensat, joten yhden leikkuukerran hinnaksi muodostuu 15€.
+
+??? info "Esimerkki: Asiakkaalla ei ole leikkuria"
+
+    Piha-arviossa pihasi arvioidaan kokoon S. Sinulta ei löydy ruohonleikkuria, joten yhden leikkuukerran hinnaksi muodostuu 20€ (10€ * 2).
+
+## Palveluehdot
+
+1. Asiakas vastaa tarjoamansa leikkuuvälineistön ruohonleikkuri kunnosta ja turvallisuudesta, niin ettei se aiheuta palvelun tarjoajalle vaaraa.
+1. Asiakkaan tulee perehdyttää palvelun suorittaja työvälineiden asianmukaiseen käyttöön.
+1. Palvelu sisältää ruohonleikkuun moottorikäyttöisellä ruohonleikkurilla. Ruohotrimmerin käyttö ei kuulu palveluun.
+1. Palvelun suorittaa yläaste-ikäinen henkilö, joten työn jälki voi jättää toivomisen varaa. Jos jälki ei miellytä, edeltävän leikkuukerran rahat saa takaisin. Lisäksi työn jäljestä voi jättää palautetta ja näin seuraavalla kerralla työn laatu toivottavasti paranee.
+1. Palvelun tarjoaja tai suorittaja ei vastaa asiakkaan tarjoaman leikkuuvälineistön (kuten ruohonleikkuri) kunnosta, eikä ole korvausvelvollinen asiakkaan omaisuuteen syntyvistä vaurioista.
+1. Palvelut veloitetaan asiakkaalta työn jälkeen.
+1. Työ tehdään arkipäivinä aikavälillä 9-17.
+
+
