@@ -27,4 +27,6 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+remote_branch: gh-pages
+
 copyright: Copyright &copy; 2025 Simo Roikonen
