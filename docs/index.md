@@ -3,6 +3,8 @@
 * Kaipaatko nurmikollesi edullista ja vaivatonta leikkauspalvelua.
 * Haluatko auttaa reipasta ja omatoimista yläasteelaista tienaamaan moporahoja?
 
+![alt text](assets/image.png)
+
 ``` mermaid
 graph LR
   F[Yhteydenotto] --> G{Piha-arvio tehty?}
