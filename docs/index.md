@@ -10,7 +10,7 @@ graph LR
   F[Yhteydenotto] --> G{Piha-arvio tehty?}
   G --> |Kyllä| C;
   G --> |Ei| B;
-  B[10min piha-arvio] --> C;
+  B[10min ilmainen piha-arvio] --> C;
   C[Aikataulutus] --> D;
   D[Leikkaus] --> E;
   E[Maksu] --> D;
