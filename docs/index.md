@@ -10,7 +10,7 @@ graph LR
   F[Yhteydenotto] --> G{Piha-arvio tehty?}
   G --> |Kyllä| C;
   G --> |Ei| B;
-  B[10min ilmainen piha-arvio] --> C;
+  B[Ilmainen piha-arvio] --> C;
   C[Aikataulutus] --> D;
   D[Leikkaus] --> E;
   E[Maksu] --> D;
@@ -18,7 +18,7 @@ graph LR
 
 !!! tip "Näin Pääset Alkuun"
 
-    [:material-form-select: Tilaa vaivaton piha-arvio](https://forms.gle/Tnt9ebGAe1aDXwMVA){ .md-button }
+    [:material-form-select: Tilaa vaivaton ja ilmainen piha-arvio](https://forms.gle/Tnt9ebGAe1aDXwMVA){ .md-button }
 
     TAI
 
@@ -30,14 +30,13 @@ graph LR
 
 ## Hinnoittelu
 
-Pihasi hinnoittelu hoidetaan noin 10 minuutin mittaisen arviointikäynnin yhteydessä, jossa pihasi arvioidaan silmämääräisesti koon ja monimutkaisuuden mukaan T-paita-kokoihin.
+Pihasi hinnoittelu hoidetaan noin 10 minuutin mittaisen ilmaisen arviointikäynnin yhteydessä. Siinä pihasi arvioidaan silmämääräisesti koon ja monimutkaisuuden mukaan T-paita-kokoihin. Piha-arvio ei velvoita tilaamaan.
 
 | Koko & monimutkaisuus | Hinta/leikkauskerta |
 | --------------------- | ------------------- |
 | S | 10€ |
 | M | 15€ |
 | L | 20€ |
-| XL | Tilannekohtaisesti |
 
 _Ei ALV-velvollinen (alle 1000 € liikevaihto vuodessa)_
 
