@@ -5,17 +5,6 @@
 
 ![alt text](assets/image.png)
 
-``` mermaid
-graph LR
-  F[Yhteydenotto] --> G{Piha-arvio tehty?}
-  G --> |Kyllä| C;
-  G --> |Ei| B;
-  B[Ilmainen piha-arvio] --> C;
-  C[Aikataulutus] --> D;
-  D[Leikkaus] --> E;
-  E[Maksu] --> D;
-```
-
 !!! tip "Näin Pääset Alkuun"
 
     [:material-form-select: Tilaa vaivaton ja ilmainen piha-arvio](https://forms.gle/Tnt9ebGAe1aDXwMVA){ .md-button }
@@ -27,6 +16,17 @@ graph LR
     TAI
 
     [:octicons-mail-24: ruohonleikkuu@roikonen.fi](mailto:ruohonleikkuu@roikonen.fi?subject=Piha-arvio&body=Muuramen%20katuosoitteesi%20sekä%20puhelinnumerosi){ .md-button }
+
+``` mermaid
+graph LR
+  F[Yhteydenotto] --> G{Piha-arvio tehty?}
+  G --> |Kyllä| C;
+  G --> |Ei| B;
+  B[Ilmainen piha-arvio] --> C;
+  C[Aikataulutus] --> D;
+  D[Leikkaus] --> E;
+  E[Maksu] --> D;
+```
 
 ## Hinnoittelu
 
